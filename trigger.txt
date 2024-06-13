@@ -1,1 +1,3 @@
 alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+mysql:5.7 registry.cn-hangzhou.aliyuncs.com/yangjl_test/yangjl_test:mysql-5.7
+redis-latest registry.cn-hangzhou.aliyuncs.com/yangjl_test/yangjl_test:redis-latest
